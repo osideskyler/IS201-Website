@@ -24,6 +24,9 @@ h1 {
 
 .gear-item {
     margin: 15px 0;
+    padding: 10px;
+    background-color: azure;
+    border-radius: 30px;
 }
 
 .video-section {
